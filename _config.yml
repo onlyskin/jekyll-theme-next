@@ -4,13 +4,16 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: polski
 subtitle:
 description:
-author: John Doe
+author: Sam Szreter
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
+# Build posts with future dates
+future: true
+show_drafts: false
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
